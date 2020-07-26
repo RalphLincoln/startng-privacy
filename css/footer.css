@@ -1,0 +1,39 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1000px ) {
+  .disp-1 {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 1000px ) {
+  .disp-2 {
+      display: none;
+  }
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+@media screen and (min-width: 1000px ) {
+    .disp-1 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px ) {
+    .disp-2 {
+        display: none;
+    }
+
+}
